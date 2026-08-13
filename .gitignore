@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Project data
+input/*
+!input/.gitkeep
+output/*
+!output/.gitkeep
